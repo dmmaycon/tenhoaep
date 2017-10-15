@@ -1,0 +1,26 @@
+{
+    "name": "Minha AEP",
+    "short_name": "AEP's",
+    "theme_color": "#0f87e7",
+    "background_color": "#1d90ec",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+          "src": "./images/logo_mdm_72.png",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "./images/logo_mdm_144.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "./images/logo_mdm_192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+}
